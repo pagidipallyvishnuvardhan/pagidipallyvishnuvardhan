@@ -53,7 +53,7 @@ AI-powered agricultural marketplace connecting farmers and traders with:
 **Tech Stack:** Node.js, Express.js, PostgreSQL, HTML/CSS/JavaScript, AI Analytics
 
 🔗 [Live Demo](https://v0-agri-profit-exchange-platform-ik.vercel.app)
-🔗 [GitHub Repository](https://github.com/Vishnuvardhan/your-repo-name)
+🔗 [GitHub Repository](https://github.com/pagidipallyvishnuvardhan/v0-agri-profit-exchange-platform.git)
 
 
 ---
@@ -66,7 +66,9 @@ A predictive analytics platform that evaluates startup success probability using
 - Data-driven investment insights
 
 **Tech Stack:** Python, Power BI, Machine Learning
+
 🔗 [Live Demo](https://v0-startup-success-analyzer.vercel.app/)
+🔗 [GitHub Repository]
 
 ---
 
