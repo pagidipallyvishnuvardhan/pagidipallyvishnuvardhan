@@ -68,7 +68,7 @@ A predictive analytics platform that evaluates startup success probability using
 **Tech Stack:** Python, Power BI, Machine Learning
 
 🔗 [Live Demo](https://v0-startup-success-analyzer.vercel.app/)
-🔗 [GitHub Repository]
+🔗 [GitHub Repository](https://github.com/pagidipallyvishnuvardhan/v0-startup-success-analyzer.git)
 
 ---
 
