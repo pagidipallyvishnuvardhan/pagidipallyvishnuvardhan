@@ -92,7 +92,7 @@ Currently developing an AI-powered nutrition recommendation system that will:
 
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/vishnuvardhanpagidipally
-- GitHub: https://github.com/Vishnuvardhan
+- GitHub: https://github.com/pagidipallyvishnuvardhan
 
 ---
 
