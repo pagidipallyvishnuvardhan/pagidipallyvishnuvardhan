@@ -45,6 +45,8 @@ CGPA: 8.2/10
 - Pandas
 - NumPy
 - Matplotlib
+- power BI
+- Tableau 
 
 ### AI & Machine Learning
 - Machine Learning
